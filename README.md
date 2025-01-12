@@ -20,3 +20,4 @@ Tweak margin and padding
 Update dependencies
 Fix bug in feature X
 Improve performance
+Add test cases
