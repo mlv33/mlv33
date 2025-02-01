@@ -68,3 +68,4 @@ Rewrite function Y
 Refactor core logic
 Fix typo in README
 Update configuration
+Tweak margin and padding
