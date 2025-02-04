@@ -70,3 +70,4 @@ Fix typo in README
 Update configuration
 Tweak margin and padding
 Fix broken link
+Improve error handling
