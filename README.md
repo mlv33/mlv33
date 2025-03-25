@@ -77,3 +77,4 @@ Add documentation
 Improve performance
 Add new utility script
 Refactor core logic
+Fix typo in README
