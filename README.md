@@ -46,3 +46,4 @@ Improve error handling
 Add new utility script
 Tweak margin and padding
 Add documentation
+Improve performance
