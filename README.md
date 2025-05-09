@@ -18,3 +18,4 @@ Improve performance
 Improve logging
 Tweak margin and padding
 Update dependencies
+Fix bug in feature X
