@@ -48,3 +48,4 @@ Tweak margin and padding
 Add documentation
 Improve performance
 Add new utility script
+Refactor core logic
