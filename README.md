@@ -22,3 +22,4 @@ Fix bug in feature X
 Improve performance
 Add test cases
 Add documentation
+Update configuration
