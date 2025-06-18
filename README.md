@@ -81,3 +81,4 @@ Fix typo in README
 Rewrite function Y
 Refactor core logic
 Fix typo in README
+Update configuration
