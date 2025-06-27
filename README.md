@@ -31,3 +31,4 @@ Clean up codebase
 Optimize loop
 Optimize loop
 Tweak margin and padding
+Add documentation
